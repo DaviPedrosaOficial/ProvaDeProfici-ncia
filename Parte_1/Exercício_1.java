@@ -42,8 +42,9 @@ public class Exercício_1{
 
         scanner.close();
 
+        /* Saida */
         System.out.printf("%nO valor total da compra sera de %.2f !", (qtdProd1 * valorProd1) + (qtdProd2 * valorProd2));
-        System.out.printf("%n%n---Resumo da Compra---%n%n--1º Produto--%n Codigo 1º Produto: %d %n Quantidade 1º produto: %d %n Valor unitario 1º produto: %.2f %n Valor total 1º produto: %.2f %n%n--2º Produto--%n Codigo do 2º produto: %d %n Quantidade do 2º produto: %d %n Valor unitario 2º produto: %.2f %n Valor total 2º produto: %.2f ",codigoProd1,qtdProd1,valorProd1,(qtdProd1 * valorProd1),codigoProd2,qtdProd2,valorProd2,(qtdProd2 * valorProd2));
+        System.out.printf("%n%n---Resumo da Compra---%n%n--1º Produto--%n Codigo 1º Produto: %d %n Quantidade 1º produto: %d %n Valor unitario 1º produto: %.2f %n Valor total 1º produto: %.2f %n%n--2º Produto--%n Codigo 2º produto: %d %n Quantidade 2º produto: %d %n Valor unitario 2º produto: %.2f %n Valor total 2º produto: %.2f ",codigoProd1,qtdProd1,valorProd1,(qtdProd1 * valorProd1),codigoProd2,qtdProd2,valorProd2,(qtdProd2 * valorProd2));
 
 
 
