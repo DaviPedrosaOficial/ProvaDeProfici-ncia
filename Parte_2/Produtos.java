@@ -1,5 +1,7 @@
 package Parte_2;
 
+/* Classe criada para dar suporte ao exercício 3 */
+
 public class Produtos {
 
     private int cod;
