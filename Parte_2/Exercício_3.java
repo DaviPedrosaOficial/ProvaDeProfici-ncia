@@ -56,6 +56,7 @@ public class Exercício_3 {
                     break;
                  } catch (Exception valInv) {
                     System.out.printf("%nValor inserido é invalido.");
+                    break;
                  }
             }
 
